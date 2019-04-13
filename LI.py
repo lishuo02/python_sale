@@ -7,9 +7,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import datetime
 
-host = "orderstatsms4slave.mysqldb.chinacloudapi.cn"
-user = "orderstatsms4slave%data_rw"
-passwd = "ZBIgg6gg1wdm9bTVuJqaosrKQC85OjMh"
+host = 
+user = 
+passwd = 
 port = 3306
 db = "trade_stats"
 
